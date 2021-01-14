@@ -2,13 +2,16 @@
   margin: 0;
   padding: 0;
 }
-.htext{
-    font-size: 800px;
-    color:chocolate;
+.htext {
+  font-size: 800px;
+  color: chocolate;
 }
-.sumi{
-    font-size: 600px;
-    color: darkturquoise;
+.sumi {
+  font-size: 80%;
+  color: #d10050;
+}
+.priyanka {
+  padding-bottom: 60px;
 }
 
 .uzzol {
@@ -16,7 +19,6 @@
 }
 .image {
   display: flex;
-
 }
 .logo-discription {
   text-align: justify;
@@ -25,10 +27,32 @@
   font-size: 40px;
   color: coral;
 }
-.buttone{
-    float: right;
-    padding-left: 90px;
+.buttone {
+  float: right;
+  padding-left: 90px;
 }
-.clothe-price{
-    align-items: center;
+.clothe-price {
+  align-items: center;
+}
+
+. {
+  padding-bottom: 40px;
+}
+.chobi {
+  border: 0em;
+}
+.women {
+  font-size: 50px;
+  color: rgb(0, 60, 139);
+}
+.picture {
+  border: 0em;
+}
+.psize {
+  width: 350px;
+  height: 350px;
+  padding-top: 10px;
+}
+.submit {
+  margin-bottom: 10px;
 }
